@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in COBOL PERFORM loops. The `bug.cob` file contains the erroneous code, while `bugSolution.cob` provides the corrected version. The error arises from an improper condition in the UNTIL clause, leading to an extra loop iteration.
